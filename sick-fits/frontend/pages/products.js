@@ -1,7 +1,7 @@
 function ProductsPage() {
   return (
     <div>
-      <p>Hello!</p>
+      <p>Products Page!</p>
     </div>
   );
 }

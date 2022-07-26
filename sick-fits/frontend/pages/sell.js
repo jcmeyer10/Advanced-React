@@ -2,7 +2,7 @@ import Page from '../components/Page';
 
 function SellPage() {
   return (
-      <p>Hello, I am a Sell Page!</p>
+      <p>I am the sell page</p>
   );
 }
 

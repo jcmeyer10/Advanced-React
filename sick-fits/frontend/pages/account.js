@@ -1,7 +1,7 @@
 function AccountPage() {
   return (
     <div>
-      <p>Hello!</p>
+      <p>Account Page!</p>
     </div>
   );
 }

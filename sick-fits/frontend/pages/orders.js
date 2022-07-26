@@ -1,7 +1,7 @@
 function OrderPage() {
   return (
     <div>
-      <p>Hello!</p>
+      <p>Order Page!</p>
     </div>
   );
 }

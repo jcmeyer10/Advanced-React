@@ -1,8 +1,8 @@
+import Page from '../components/Page';
+
 function SellPage() {
   return (
-    <div>
-      <p>Hello!</p>
-    </div>
+      <p>Hello, I am a Sell Page!</p>
   );
 }
 

@@ -1,8 +1,10 @@
+import Page from '../components/Page';
+
 function IndexPage() {
   return (
-    <div>
+    <>
       <p>Hello!</p>
-    </div>
+    </>
   );
 }
 
